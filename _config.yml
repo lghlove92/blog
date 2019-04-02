@@ -109,8 +109,8 @@ author:
   name             : "Hyuny"
   avatar           : "/assets/images/images.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul"
+  email            : "mydlrudgus@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
